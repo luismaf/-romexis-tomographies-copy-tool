@@ -1,0 +1,9 @@
+c:\users\luis ma\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\luis ma\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\luis ma\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Copiador de Tomografias.csproj.GenerateResource.Cache
+c:\users\luis ma\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Copiador de Tomografias.csprojResolveAssemblyReference.cache
+c:\users\luis ma\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CopiadordeTomografias.exe.config
+C:\Users\Luis Ma\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CopiadordeTomografias.exe
+C:\Users\Luis Ma\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CopiadordeTomografias.pdb
+C:\Users\Luis Ma\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CopiadordeTomografias.exe
+C:\Users\Luis Ma\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\CopiadordeTomografias.pdb
